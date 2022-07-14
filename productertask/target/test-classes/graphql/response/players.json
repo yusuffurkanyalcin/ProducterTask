@@ -1,0 +1,34 @@
+{
+  "data": {
+    "getAllPlayers": [
+      {
+        "id": "4",
+        "name": "Furkan"
+      },
+      {
+        "id": "5",
+        "name": "Ali"
+      },
+      {
+        "id": "6",
+        "name": "Duman"
+      },
+      {
+        "id": "7",
+        "name": "Duman"
+      },
+      {
+        "id": "8",
+        "name": "Cimşit"
+      },
+      {
+        "id": "9",
+        "name": "hahah"
+      },
+      {
+        "id": "10",
+        "name": "ASD"
+      }
+    ]
+  }
+}
